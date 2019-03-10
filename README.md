@@ -1,2 +1,2 @@
 # CorgiRun
-## Unity Project - Endless Runner Game
+Unity Project - Endless Runner Game
